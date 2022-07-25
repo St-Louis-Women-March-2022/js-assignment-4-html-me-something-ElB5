@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+
+
+
+h1, h2, h3, h4 {
+    font-size: 1.5em;
+}
+
+h5 {
+    color: red;
+    text-align: center;
+    font-size: 1em;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#blaze {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+#snuffle {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    margin: 70px;
+    font-size: 3.5em;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 100px;
+}
+
+body {
+    margin: 8px;
+    background-color: gold;
+}
